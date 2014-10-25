@@ -2,3 +2,13 @@ KALANJALI
 =========
 
 SIR MVIT'S ANNUAL TECHNO-CULTURAL FEST KALANJALI 2014'S WEBSITE 
+
+FRONT END DESIGNED AND DEVELOPED BY : 
+SHUBHAM SINGH https://github.com/SamWinchester
+HARINDER SINGH https://github.com/harindersingh
+
+BACKEND DEVELOPED BY :
+VAITHEESWARAN https://github.com/svaithee12
+
+WEBSITE LINK : http://sirmvitkalanjali.com/
+(LIVE TILL SEPTEMBER 2015)
