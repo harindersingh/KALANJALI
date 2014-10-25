@@ -1,0 +1,84 @@
+.nav{
+	font-weight: bold;
+	@nav-pills-active-link-hover-bg:green;
+	
+
+}
+.page-header{
+	text-align: center;
+	padding: 40px;
+	border:2px solid black;
+	border-bottom: 40px solid gray;
+
+	
+}
+#scroller{
+	position: fixed;
+	top: 500px;
+	right: 20px;
+	opacity: .7;
+	background-color: transparent;
+
+	
+
+}
+#scroller:hover{
+	opacity: 1;
+	
+}
+.carousel{
+	
+	text-align: center;
+	font-weight: bold;
+background-color: gray;
+margin: 10px;
+
+}
+.form-control{
+	text-align: center;
+	font-weight: bold;
+
+}
+.modal-body{
+	width: 60%;
+}
+#top{
+	width: 100%;
+	height: 100px;
+}
+body{
+	padding: 10px;
+}
+
+ul.nav-tabs.affix{
+        top: 0px; 
+        
+    }
+
+#h_about{
+	text-align: center;
+	font-weight: bold;
+	border-bottom-right-radius: 50px;
+}
+
+.thumbnail{color: white;
+	font-weight: bold;
+	height: 200px;
+	border:2px solid black;
+	border-radius: 15px;
+}
+.caption{
+	color: white;
+	background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+

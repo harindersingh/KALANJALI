@@ -1,0 +1,179 @@
+.modal-body {
+width: 100%;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0 0 35px;
+    text-transform: uppercase;
+    font-family: 'Open Sans', Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+p {
+    margin: 0 0 25px;
+    font-size: 18px;
+    line-height: 1.2;
+}
+
+.card1{text-align: center;
+    background: rgb(83,164,61);
+    opacity: .9;
+    padding: 0px; 
+    font-family: Rockwell Extra Bold;
+  }
+  .card8{text-align: center;
+    background: rgb(181,230,29);
+    opacity: .9;
+    padding: 0px; 
+    font-family: Rockwell Extra Bold;
+  }
+  .card4{
+    text-align: center;
+    background: rgb(153,217,234);
+    opacity: .9;
+    font-family: Rockwell Extra Bold;
+  }
+
+  .card6{
+    text-align: center;
+    background: rgb(255,242,0);
+    opacity: .9;
+    font-family: Rockwell Extra Bold;
+  }
+  .card2{text-align: center;
+    background: rgb(250,166,54);
+    opacity: .9;
+    padding: 0px; 
+    font-family: Rockwell Extra Bold;
+  }
+  .card7{text-align: center;
+    background: rgb(192,192,192);
+    opacity: .9;
+    padding: 0px; 
+    font-family: Rockwell Extra Bold;
+  }
+
+  .card3{text-align: center;
+    background: rgb(242,97,68);
+    opacity: .9;
+    padding: 0px; 
+    font-family: Rockwell Extra Bold;
+  }
+  .card5{text-align: center;
+    background: rgb(64,128,128);
+    opacity: .9;
+    padding: 0px; 
+    font-family: Rockwell Extra Bold;
+  }
+  
+  .card-body{padding: 5px;
+    font-weight: bold;
+    color: black;
+    font-family: 'Open Sans';
+    font-weight: 800;
+    font-size: 15px;
+    border-bottom-width: 2px;
+    
+  }
+  .card-footer{
+    padding: 5px;
+    
+  }
+  .card-footer>a{
+    
+    font-weight: bold;
+    color: white;
+
+  }
+.navbar-custom {
+  margin-bottom: 0;
+  border-bottom: 1px solid rgba(255,255,255,.3);
+  text-transform: uppercase;
+  font-family: 'Open Sans';
+  font-size: 20px;
+  font-weight: 300;
+  background-color: #000;
+  }
+
+  .navbar-custom .navbar-brand {
+      font-weight: 700;
+  }
+
+  .navbar-custom .navbar-brand:focus {
+      outline: 0;
+  }
+
+  .navbar-custom .navbar-brand .navbar-toggle {
+      padding: 4px 6px;
+      font-size: 16px;
+      color: #fff;
+  }
+
+  .navbar-custom .navbar-brand .navbar-toggle:focus,
+  .navbar-custom .navbar-brand .navbar-toggle:active {
+      outline: 0;
+  }
+
+  .navbar-custom a {
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: 300;
+    color:#fff;
+  }
+
+  .navbar-custom .nav li.active {
+      outline: nonte;
+      background-color: rgba(255,255,255,.3);
+  }
+
+  .navbar-custom .nav li a {
+      -webkit-transition: background .3s ease-in-out;
+      -moz-transition: background .3s ease-in-out;
+      transition: background .3s ease-in-out;
+  }
+
+  .navbar-custom .nav li a:hover,
+  .navbar-custom .nav li a:focus,
+  .navbar-custom .nav li a.active {
+      outline: 0;
+      background-color: rgba(255,255,255,.3);
+  }
+  .navbar-toggle {
+    position: relative;
+    float: right;
+    margin-right: 15px;
+    padding: 9px 10px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    background-color: transparent;
+    color: #fff;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    }
+
+  @media(min-width:767px) {
+      .navbar {
+          padding: 20px 0;
+          border-bottom: 0;
+          letter-spacing: 1px;
+          background: 0 0;
+          -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+          -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+          transition: background .5s ease-in-out,padding .5s ease-in-out;
+      }
+
+      .top-nav-collapse {
+          padding: 0;
+          background-color: #000;
+      }
+
+      .navbar-custom.top-nav-collapse {
+          border-bottom: 1px solid rgba(255,255,255,.3);
+      }
+  }
